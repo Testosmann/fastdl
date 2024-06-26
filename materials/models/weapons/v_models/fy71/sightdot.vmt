@@ -1,0 +1,10 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models\weapons\v_models\FY71\sightdot"
+	"$surfaceprop" "Default"
+	"$selfillum" 1
+	"$model" 1
+        "$translucent" 1
+}
+
+        

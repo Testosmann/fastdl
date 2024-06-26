@@ -1,0 +1,14 @@
+"UnlitGeneric"
+{
+	"$translucent" 1
+	"$basetexture" "sprites\fy71"
+"Proxies"
+{
+"AnimatedTexture"
+{
+"animatedTextureVar" "$basetexture"
+"animatedTextureFrameNumVar" "$frame"
+"animatedTextureFrameRate" "10" 
+}
+}
+}
